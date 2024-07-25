@@ -1,0 +1,3 @@
+[submodule "extern/gpu.cpp"]
+	path = extern/gpu.cpp
+	url = https://github.com/AnswerDotAI/gpu.cpp.git
